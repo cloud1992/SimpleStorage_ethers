@@ -1,2 +1,1 @@
-# Ethers Simple Storage FCC
-# SimpleStorage_ethers
+# Ethers Simple Storage
